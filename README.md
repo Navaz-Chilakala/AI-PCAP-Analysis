@@ -4,6 +4,8 @@
 
 MBA Research Project (Semester IV) — Navaz Chilakala · USN 241VMBR01593 · Jain (Deemed-to-be) University
 
+**Live demo: https://ai-pcap-analysis.vercel.app**
+
 This repository contains the final report, presentation, and a working in-browser demo of the proposed framework: upload a packet capture of 5G / VoLTE signalling and get an automatic anomaly verdict with a root-cause explanation grounded in 3GPP specifications.
 
 ## Contents
@@ -17,6 +19,8 @@ This repository contains the final report, presentation, and a working in-browse
 | [`docs/screenshots/`](docs/screenshots) | Screenshots of the demo |
 
 ## The demo
+
+Try it live: **[ai-pcap-analysis.vercel.app](https://ai-pcap-analysis.vercel.app)**
 
 The analyzer runs entirely in the browser (no backend, no install) and executes the pipeline described in the report:
 
